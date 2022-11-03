@@ -1,4 +1,4 @@
-### This Go Program tool converts the values in a CSV File to a JSON string, Hashes the JSON string and creates a new CSV with the Hash Column
+### This Go Program converts the values in a CSV File to a JSON string, Hashes the JSON string and creates a new CSV with the Hash Column
 
 ## How to Use
 * Clone the Repository and Navigate to the Go Folder
@@ -12,4 +12,4 @@
 
 ![h1](https://user-images.githubusercontent.com/68669102/199635609-1f0f2c34-b030-4d7d-b8a7-300dfd10aa90.PNG)
 
-## Note: This Code is hardcoded in a lot of areas as the structure of the csv file im expecting is not clear yet.
+## Note: This Code is hardcoded in a lot of areas as the structure of the csv file I'm expecting is not clear yet.
